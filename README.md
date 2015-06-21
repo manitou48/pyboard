@@ -13,3 +13,5 @@ lowerpower.py  measure current for various power settings
 htu21d.py  class for HTU21D temp/humidity I2C sensor
 
 sdperf2.py  time IO for SD, SPI SD, FLASH using timer2
+
+spiflash.py  read/write/erase tests on 1MB SPI flash
