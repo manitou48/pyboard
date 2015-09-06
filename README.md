@@ -19,3 +19,5 @@ sdperf2.py  time IO for SD, SPI SD, FLASH using timer2
 spiflash.py  read/write/erase tests on 1MB SPI flash
 
 wizntp.py   wiz820io ether example of setting RTC with NTP(UDP)
+
+IRremote/   IR remote transmitter/receiver for Sony
