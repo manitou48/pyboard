@@ -7,9 +7,10 @@ IRsonytst.py  test IR receiver and IR LED
 
 irsonypy.png  snapshot of logic analyzer with IR LED in front of receiver
               running IRsonytst.py, Sony POWER code 0xA9A 
-        channel 0, pin X2 PWM out  to IR LED
+		channel 0, pin X2 PWM out  to IR LED
 		channel 1, IR receiver output (to pin X4) 
 		channel 2, debug, pulse measures time in callback (30us to 78us)
+		    (pulse takes about 15us)
 
 
 ----  reference ----
