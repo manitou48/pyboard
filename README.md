@@ -6,6 +6,8 @@ driftrtcms.py compare pyb.millis() to RTC
 
 hostdrift.c  reads ms timestamps on /dev/ttyAMC0
 
+gpspps.py    pyboard drift check with GPS pps on X1
+
 gpsrtc.py    RTC drift check with GPS pps on X1
 
 setrtc.py    set RTC from UNIX date
