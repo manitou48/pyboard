@@ -4,6 +4,8 @@ driftrtc.py sends millis to linux hostdrift.c
 
 driftrtcms.py compare pyb.millis() to RTC 
 
+driftrtccb.py use RTC wakeup and pyb.micros
+
 hostdrift.c  reads ms timestamps on /dev/ttyAMC0
 
 gpspps.py    pyboard drift check with GPS pps on X1
