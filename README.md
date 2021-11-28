@@ -1,5 +1,7 @@
   pyboard 
 
+dacPID.py   PID controller with DAC and ADC
+
 driftrtc.py sends millis to linux hostdrift.c
 
 driftrtcms.py compare pyb.millis() to RTC 
